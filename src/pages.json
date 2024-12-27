@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "type": "home"
+    },
+    {
+      "path": "pages/account/index",
+      "type": "page"
+    }
+  ],
+  "globalStyle": {
+    "navigationBarBackgroundColor": "#409eff",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "@uni-helper"
+  },
+  "subPackages": []
+}
